@@ -31,3 +31,4 @@ class HikeTests(TestCase):
         self.assertEqual(actual_author, expected_author)
         self.assertEqual(actual_title, expected_title)
         self.assertEqual(actual_body, expected_body)
+        # 3 of 3 passing
